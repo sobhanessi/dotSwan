@@ -13,8 +13,7 @@ import shape41 from "./pics/Shape 4 1.png";
 import shape31 from "./pics/Shape 3 1.png";
 import shape21 from "./pics/Shape 2 1.png";
 import shape11 from "./pics/Shape 1 1.png";
-import registerButton from "./pics/Register Button.png";
-
+import arrowRight1 from "./pics/Arrow-Right 1.png";
 function Navbar() {
   const styles = {
     fonts: {
@@ -127,8 +126,9 @@ function Navbar() {
           position: "absolute",
           width: "385px",
           height: "394px",
-          left: "473px",
+          left: "502px",
           top: "28px",
+          filter: "blur(7px)",
         }}
       />
       <img
@@ -137,11 +137,11 @@ function Navbar() {
           position: "absolute",
           width: "385px",
           height: "394px",
-          left: "502px",
+          left: "473px",
           top: "28px",
-          filter: "blur(7px)",
         }}
       />
+
       <img
         src={shape11}
         style={{
@@ -183,18 +183,32 @@ function Navbar() {
         Draft is a revolutionary mobile app built to help you manage your
         business easily and save your money.
       </p>
-      <Link
-        to="/register"
+
+      <button
         style={{
           position: "absolute",
-          width: "290px",
+          width: "200px",
           height: "54px",
           left: "247px",
           top: "607px",
+          backgroundColor: "#16194F",
+          borderRadius: "20px",
+          color: "white",
+          fontSize: "15px",
+          fontFamily: "Roboto",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
         }}
       >
-        <img src={registerButton} />
-      </Link>
+        Register Now{" "}
+        <img
+          src={arrowRight1}
+          style={{
+            marginLeft: "8px",
+          }}
+        />
+      </button>
       <img
         src={phone}
         style={{
