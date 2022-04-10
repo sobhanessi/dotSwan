@@ -1,0 +1,109 @@
+#smartBanking {
+  /* Smart Banking for freelancers */
+
+  position: absolute;
+  width: 463px;
+  height: 180px;
+  left: 18%;
+  top: 287px;
+
+  /* Heading/H1 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 150%;
+  /* or 90px */
+
+  color: #ffffff;
+}
+
+#draft {
+  /* Draft is a revolutionary mobile app built to help you manage your business easily and save your money. */
+
+  position: absolute;
+  width: 376px;
+  height: 90px;
+  left: 18%;
+  top: 479px;
+
+  /* Body/Main */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+
+  color: #ffffff;
+}
+
+#registerButton {
+  /* Register Button */
+
+  position: absolute;
+  width: 200px;
+  height: 54px;
+  left: 18%;
+  top: 607px;
+  /* Secondary/Dark */
+
+  background: #16194f;
+  border-radius: 20px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#shape11 {
+  /* Shape 1 1 */
+
+  position: absolute;
+  width: 144px;
+  height: 158px;
+  left: 1200px;
+  top: 210px;
+}
+
+#shape21 {
+  /* Shape 2 1 */
+
+  position: absolute;
+  width: 115px;
+  height: 114px;
+  left: 1163px;
+  top: 764px;
+}
+
+#phone1 {
+  /* Phone 1 */
+
+  position: absolute;
+  width: 587px;
+  height: 791.5px;
+  left: 705px;
+  top: 195px;
+}
+
+#shape41 {
+  /* Shape 4 1 */
+
+  position: absolute;
+  width: 145px;
+  height: 137px;
+  left: 606px;
+  top: 676px;
+}
+#shape412 {
+  /* Shape 4 1 */
+
+  position: absolute;
+  width: 145px;
+  height: 137px;
+  left: 595px;
+  top: 639px;
+}

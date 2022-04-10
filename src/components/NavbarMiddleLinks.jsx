@@ -46,10 +46,10 @@ function NavbarMiddleLinks() {
         </Link>
       </span>
       <span style={{ ...styles.middleLinks }}>
-        <Link to="/home" style={{ ...styles.link, paddingRight: "50px" }}>
+        <Link to="/home" style={{ ...styles.link, paddingRight: "70px" }}>
           Home
         </Link>
-        <Link to="/feature" style={{ ...styles.link, paddingRight: "50px" }}>
+        <Link to="/feature" style={{ ...styles.link, paddingRight: "70px" }}>
           Feature
         </Link>
         <Link to="/pricing" style={{ ...styles.link }}>

@@ -1,0 +1,1505 @@
+#feature-3-section-support-feature-2-h3 {
+  position: absolute;
+  width: 366px;
+  height: 180px;
+  left: 250px;
+  top: 2447px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 120%;
+  /* or 60px */
+
+  /* Primary */
+
+  color: #554dde;
+}
+
+#feature-3-section-support-feature-2-p {
+  position: absolute;
+  width: 366px;
+  height: 90px;
+  left: 247px;
+  top: 2657px;
+
+  /* Body/Main */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+
+#feature-3-section-support-profile-images-ellipse-19 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 427px;
+  top: 2771px;
+
+  background-image: url("../pics/Ellipse\ 19.png");
+  /* border: 1.5px solid #ffffff;
+  box-sizing: border-box; */
+}
+
+#feature-3-section-support-profile-images-ellipse-18 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 391px;
+  top: 2771px;
+
+  background-image: url("../pics/Ellipse\ 18.png");
+  /* border: 1.5px solid #ffffff;
+  box-sizing: border-box; */
+}
+#feature-3-section-support-profile-images-ellipse-17 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 355px;
+  top: 2771px;
+
+  background-image: url("../pics/Ellipse\ 17.png");
+  /* border: 1.5px solid #ffffff;
+  box-sizing: border-box; */
+}
+
+#feature-3-section-support-profile-images-ellipse-16 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 319px;
+  top: 2771px;
+
+  background-image: url("../pics/Ellipse\ 16.png");
+  /* border: 1.5px solid #ffffff;
+  box-sizing: border-box; */
+}
+
+#feature-3-section-support-profile-images-ellipse-15 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 283px;
+  top: 2771px;
+
+  background-image: url("../pics/Ellipse\ 15.png");
+  /* border: 1.5px solid #ffffff;
+  box-sizing: border-box; */
+}
+
+#feature-3-section-support-profile-images-ellipse-14 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 247px;
+  top: 2771px;
+
+  background-image: url("../pics/Ellipse\ 14.png");
+  /* border: 1.5px solid #ffffff;
+  box-sizing: border-box; */
+}
+
+#feature-3-section-support-profile-images-ellipse-13 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 247px;
+  top: 2771px;
+
+  background-image: url("../pics/Ellipse\ 13.png");
+}
+
+#feature-3-section-support-profile-images {
+  position: absolute;
+  width: 240px;
+  height: 60px;
+  left: 247px;
+  top: 2771px;
+}
+
+#feature-3-section-support-t-20 {
+  position: absolute;
+  width: 34px;
+  height: 30px;
+  left: 497px;
+  top: 2786px;
+
+  /* Body/Main */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+#feature-3-section-chat-Mike-div {
+  position: absolute;
+  width: 366px;
+  height: 70px;
+  left: 827px;
+  top: 2440px;
+
+  background: #ffffff;
+  border-radius: 30px 30px 30px 0px;
+}
+#feature-3-section-chat-Mike-p {
+  /* Hi Mike, How can I help you? */
+
+  position: absolute;
+  width: 254px;
+  height: 30px;
+  left: 867px;
+  top: 2442px;
+
+  /* Body/Main */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+
+#feature-3-section-chat-Mike-ellipse-20 {
+  /* Ellipse 20 */
+
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  left: 752px;
+  top: 2455px;
+
+  background: url("../pics/Ellipse\ 20.png");
+}
+#feature-3-section-chat-Mike-underline {
+  /* Clair, 12:22 pm */
+
+  position: absolute;
+  width: 99px;
+  height: 23px;
+  left: 827px;
+  top: 2514px;
+
+  /* Caption */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 150%;
+  /* identical to box height, or 22px */
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+#feature-3-section-chat-Credit-div {
+  /* Rectangle 66 */
+
+  position: absolute;
+  width: 366px;
+  height: 70px;
+  left: 755px;
+  top: 2567px;
+
+  /* Secondary/Light */
+
+  background: #6a6d9e;
+  border-radius: 30px 30px 30px 0px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+#feature-3-section-chat-Credit-p {
+  /* My credit card is stolen... */
+
+  position: absolute;
+  width: 222px;
+  height: 30px;
+  left: 792px;
+  top: 2568px;
+
+  /* Body/Main */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+
+  color: #ffffff;
+}
+
+#feature-3-section-chat-Credit-ellipse-21 {
+  /* Ellipse 21 */
+
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  left: 1138px;
+  top: 2582px;
+
+  background: url("../pics/Ellipse\ 21.png");
+}
+
+#feature-3-section-chat-Credit-underline {
+  /* Mike, 12:24 pm */
+
+  position: absolute;
+  width: 102px;
+  height: 23px;
+  left: 1019px;
+  top: 2641px;
+
+  /* Caption */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 150%;
+  /* identical to box height, or 22px */
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+
+#feature-3-section-chat-Problem-div {
+  /* Rectangle 67 */
+
+  position: absolute;
+  width: 366px;
+  height: 110px;
+  left: 827px;
+  top: 2694px;
+
+  background: #ffffff;
+  border-radius: 30px 30px 30px 0px;
+}
+
+#feature-3-section-chat-Problem-p {
+  /* Ok. No problem. We will take care of this. */
+
+  position: absolute;
+  width: 295px;
+  height: 60px;
+  left: 867px;
+  top: 2703px;
+
+  /* Body/Main */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+
+#feature-3-section-chat-Problem-ellipse-22 {
+  /* Ellipse 22 */
+
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  left: 752px;
+  top: 2749px;
+
+  background: url("../pics/Ellipse\ 22.png");
+}
+
+#feature-3-section-chat-Problem-underline {
+  /* Clair, 12:25 pm */
+
+  position: absolute;
+  width: 99px;
+  height: 23px;
+  left: 824px;
+  top: 2816px;
+
+  /* Caption */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 150%;
+  /* identical to box height, or 22px */
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+
+#plans-exceptional {
+  /* An exceptional service, at the right price. */
+
+  position: absolute;
+  width: 735px;
+  height: 60px;
+  left: 348px;
+  top: 3180px;
+
+  /* Heading/H3 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 150%;
+  /* identical to box height, or 60px */
+
+  /* Primary */
+
+  color: #554dde;
+}
+
+#plans-start {
+  /* Start with our free plan and switch to premium as you grow */
+
+  position: absolute;
+  width: 628px;
+  height: 36px;
+  left: 406px;
+  top: 3260px;
+
+  /* Body/Intro */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+
+  /* Secondary/Dark */
+
+  color: #16194f;
+}
+
+#plans-faq {
+  /* Frequently asked questions */
+
+  position: absolute;
+  width: 495px;
+  height: 60px;
+  left: 473px;
+  top: 4809px;
+
+  /* Heading/H3 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 150%;
+  /* identical to box height, or 60px */
+
+  /* Primary */
+
+  color: #554dde;
+}
+
+#plans-not-sure {
+  /* If you are not sure whether Draft is suitable is for you or not, do not worry. We are here to explain everything you might want to know */
+
+  position: absolute;
+  width: 600px;
+  height: 108px;
+  left: 420px;
+  top: 4889px;
+
+  /* Body/Intro */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+
+  text-align: center;
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+
+#plans-free-plan-1 {
+  /* Rectangle 68 */
+
+  position: absolute;
+  width: 430px;
+  height: 1131px;
+  left: 260px;
+  top: 3418px;
+
+  background: #ffffff;
+  /* Stroke */
+
+  border: 0.5px solid #cad6f1;
+  box-sizing: border-box;
+  box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  border-radius: 50px;
+}
+
+#plans-free-plan-1-free {
+  /* FREE */
+
+  position: absolute;
+  width: 93px;
+  height: 60px;
+  left: 428px;
+  top: 3458px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 150%;
+  /* identical to box height, or 60px */
+
+  text-align: center;
+  background-color: "white";
+  color: #000000;
+}
+
+#plans-free-plan-1-price {
+  /* $0/m */
+
+  position: absolute;
+  width: 119px;
+  height: 90px;
+  left: 415px;
+  top: 3558px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 150%;
+  /* identical to box height, or 90px */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+#plans-free-plan-1-manage {
+  /* Manage your business with a simple and efficient account */
+
+  position: absolute;
+  width: 340px;
+  height: 60px;
+  left: 314px;
+  top: 3688px;
+
+  /* Body/Main */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+
+  text-align: center;
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+
+#plans-free-plan-1-button-div {
+  /* Get Started Button */
+
+  position: absolute;
+  width: 170px;
+  height: 54px;
+  left: 390px;
+  top: 3788px;
+  background-color: "white";
+  color: "white";
+}
+
+#plans-free-plan-1-button {
+  /* Rectangle 69 */
+
+  position: absolute;
+  width: 170px;
+  height: 54px;
+  left: 390px;
+  top: 3788px;
+
+  /* Secondary/Dark */
+
+  border: 1.5px solid #16194f;
+  box-sizing: border-box;
+  border-radius: 20px;
+  background-color: "white";
+  /* color: "#16194F"; */
+  /* color: "white"; */
+}
+
+#plans-free-plan-1-credit-card-img {
+  position: absolute;
+  width: 503px;
+  height: 348px;
+  left: 223px;
+  top: 3844px;
+  /* border: 0.5px solid #cad6f1; */
+  box-sizing: border-box;
+  box-shadow: 0 rgba(22, 25, 79, 0.05);
+  border-radius: 50px;
+}
+
+#plans-free-plan-1-functions-group-10-check-icon-2 {
+  background-image: url("../pics/Check-icon\ 2.png");
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 317px;
+  top: 4143px;
+  display: "inline";
+}
+
+#plans-free-plan-1-functions-group-11-check-icon-2 {
+  /* Check-icon 1 */
+  background-image: url("../pics/Check-icon\ 2.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 317px;
+  top: 4184px;
+}
+
+#plans-free-plan-1-functions-group-12-check-icon-2 {
+  /* Check-icon 1 */
+  background-image: url("../pics/Check-icon\ 2.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 317px;
+  top: 4225px;
+}
+
+#plans-free-plan-1-functions-group-13-check-icon-2 {
+  /* Check-icon 1 */
+  background-image: url("../pics/Check-icon\ 2.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 317px;
+  top: 4266px;
+}
+
+#plans-free-plan-1-functions-group-14-check-icon-2 {
+  /* Check-icon 1 */
+  background-image: url("../pics/Check-icon\ 2.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 317px;
+  top: 4307px;
+}
+
+#plans-free-plan-1-functions-group-10-p {
+  /* 10 free local transfer */
+
+  position: absolute;
+  width: 157px;
+  height: 26px;
+  left: 351px;
+  top: 4142px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-1-functions-group-11-p {
+  /* 10 free local transfer */
+
+  position: absolute;
+  width: 157px;
+  height: 26px;
+  left: 351px;
+  top: 4183px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-1-functions-group-12-p {
+  /* Multi-user access */
+
+  position: absolute;
+  width: 134px;
+  height: 26px;
+  left: 351px;
+  top: 4224px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-1-functions-group-13-p {
+  /* Prepaid debit cards */
+
+  position: absolute;
+  width: 147px;
+  height: 26px;
+  left: 351px;
+  top: 4265px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-1-functions-group-14-p {
+  /* Virtual cards */
+
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 351px;
+  top: 4306px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-1-functions-group-15-check-icon-1 {
+  /* Check-icon 1 */
+
+  background-image: url("../pics/Check-icon\ 1.png");
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 317px;
+  top: 4348px;
+}
+
+#plans-free-plan-1-functions-group-16-check-icon-1 {
+  /* Check-icon 1 */
+
+  background-image: url("../pics/Check-icon\ 1.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 317px;
+  top: 4389px;
+}
+
+#plans-free-plan-1-functions-group-17-check-icon-1 {
+  /* Check-icon 1 */
+  background-image: url("../pics/Check-icon\ 1.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 317px;
+  top: 4430px;
+}
+
+#plans-free-plan-1-functions-group-15-p {
+  /* Priority 24/7 support */
+
+  position: absolute;
+  width: 157px;
+  height: 26px;
+  left: 351px;
+  top: 4347px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #b7b7b7;
+}
+
+#plans-free-plan-1-functions-group-16-p {
+  /* Exchange 24 currencies */
+
+  position: absolute;
+  width: 180px;
+  height: 26px;
+  left: 351px;
+  top: 4388px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #b7b7b7;
+}
+
+#plans-free-plan-1-functions-group-17-p {
+  /* Free payment to other Draft accounts */
+
+  position: absolute;
+  width: 282px;
+  height: 26px;
+  left: 351px;
+  top: 4429px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #b7b7b7;
+}
+
+#plans-free-plan-2 {
+  /* Rectangle 68 */
+
+  position: absolute;
+  width: 430px;
+  height: 1131px;
+  left: 750px;
+  top: 3416px;
+
+  background: #ffffff;
+  /* Stroke */
+
+  border: 0.5px solid #cad6f1;
+  box-sizing: border-box;
+  box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  border-radius: 50px;
+}
+
+#plans-free-plan-2-premium {
+  /* PREMIUM */
+
+  position: absolute;
+  width: 180px;
+  height: 60px;
+  left: 874px;
+  top: 3456px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 150%;
+  /* identical to box height, or 60px */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+#plans-free-plan-2-price {
+  /* $8/m */
+
+  position: absolute;
+  width: 119px;
+  height: 90px;
+  left: 905px;
+  top: 3556px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 150%;
+  /* identical to box height, or 90px */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+#plans-free-plan-2-manage {
+  /* Priority support and multi-user access to maximize your productivity. */
+
+  position: absolute;
+  width: 340px;
+  height: 60px;
+  left: 804px;
+  top: 3686px;
+
+  /* Body/Main */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+
+  text-align: center;
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+
+#plans-free-plan-2-button-div {
+  /* Get Started Button */
+
+  position: absolute;
+  width: 170px;
+  height: 54px;
+  left: 880px;
+  top: 3788px;
+  background-color: "white";
+  color: "white";
+}
+
+#plans-free-plan-2-button {
+  /* Rectangle 69 */
+
+  position: absolute;
+  width: 170px;
+  height: 54px;
+  left: 880px;
+  top: 3786px;
+
+  /* Secondary/Dark */
+
+  border: 1.5px solid #16194f;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+
+#plans-free-plan-2-credit-card-img {
+  position: absolute;
+  width: 503px;
+  height: 348px;
+  left: 715px;
+  top: 3844px;
+  /* border: 0.5px solid #cad6f1; */
+  box-sizing: border-box;
+  box-shadow: 0 rgba(22, 25, 79, 0.05);
+  border-radius: 50px;
+}
+
+#plans-free-plan-2-functions-group-10-check-icon-2 {
+  background-image: url("../pics/Check-icon\ 2.png");
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 807px;
+  top: 4143px;
+  display: "inline";
+}
+
+#plans-free-plan-2-functions-group-11-check-icon-2 {
+  /* Check-icon 1 */
+  background-image: url("../pics/Check-icon\ 2.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 807px;
+  top: 4184px;
+}
+
+#plans-free-plan-2-functions-group-12-check-icon-2 {
+  /* Check-icon 1 */
+  background-image: url("../pics/Check-icon\ 2.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 807px;
+  top: 4225px;
+}
+
+#plans-free-plan-2-functions-group-13-check-icon-2 {
+  /* Check-icon 1 */
+  background-image: url("../pics/Check-icon\ 2.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 807px;
+  top: 4266px;
+}
+
+#plans-free-plan-2-functions-group-14-check-icon-2 {
+  /* Check-icon 1 */
+  background-image: url("../pics/Check-icon\ 2.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 807px;
+  top: 4307px;
+}
+
+#plans-free-plan-2-functions-group-10-p {
+  /* 10 free local transfer */
+
+  position: absolute;
+  width: 157px;
+  height: 26px;
+  left: 841px;
+  top: 4142px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-2-functions-group-11-p {
+  /* 10 free local transfer */
+
+  position: absolute;
+  width: 157px;
+  height: 26px;
+  left: 841px;
+  top: 4183px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-2-functions-group-12-p {
+  /* Multi-user access */
+
+  position: absolute;
+  width: 134px;
+  height: 26px;
+  left: 841px;
+  top: 4224px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-2-functions-group-13-p {
+  /* Prepaid debit cards */
+
+  position: absolute;
+  width: 147px;
+  height: 26px;
+  left: 841px;
+  top: 4265px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-2-functions-group-14-p {
+  /* Virtual cards */
+
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 841px;
+  top: 4306px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-2-functions-group-15-check-icon-1 {
+  /* Check-icon 1 */
+
+  background-image: url("../pics/Check-icon\ 2.png");
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 807px;
+  top: 4348px;
+}
+
+#plans-free-plan-2-functions-group-16-check-icon-1 {
+  /* Check-icon 1 */
+
+  background-image: url("../pics/Check-icon\ 2.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 807px;
+  top: 4389px;
+}
+
+#plans-free-plan-2-functions-group-17-check-icon-1 {
+  /* Check-icon 1 */
+  background-image: url("../pics/Check-icon\ 2.png");
+
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 807px;
+  top: 4430px;
+}
+
+#plans-free-plan-2-functions-group-15-p {
+  /* Priority 24/7 support */
+
+  position: absolute;
+  width: 157px;
+  height: 26px;
+  left: 841px;
+  top: 4347px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-2-functions-group-16-p {
+  /* Exchange 24 currencies */
+
+  position: absolute;
+  width: 180px;
+  height: 26px;
+  left: 841px;
+  top: 4388px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-free-plan-2-functions-group-17-p {
+  /* Free payment to other Draft accounts */
+
+  position: absolute;
+  width: 282px;
+  height: 26px;
+  left: 841px;
+  top: 4429px;
+
+  /* Medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#plans-faq-bottom {
+  /* If you are not sure whether Draft is suitable is for you or not, do not worry. We are here to explain everything you might want to know */
+
+  position: absolute;
+  width: 600px;
+  height: 108px;
+  left: 420px;
+  top: 4889px;
+
+  /* Body/Intro */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+
+  text-align: center;
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+
+#faq-question-1-div {
+  /* Rectangle 70 */
+
+  position: absolute;
+  width: 946px;
+  height: 96px;
+  left: 243px;
+  top: 5117px;
+
+  background: #ffffff;
+  /* Stroke */
+
+  border: 0.5px solid #cad6f1;
+  box-sizing: border-box;
+  box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  border-radius: 20px;
+}
+
+#faq-question-1-p {
+  /* What is the difference between Draft and a traditional bank account? */
+
+  position: absolute;
+  width: 738px;
+  height: 36px;
+  left: 273px;
+  top: 5148px;
+
+  /* Heading/H4 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+
+  /* Secondary/Dark */
+
+  color: #16194f;
+}
+
+#faq-question-1-img {
+  /* Plus-icon 1 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1127px;
+  top: 5150px;
+  background-image: url("../pics/Plus-icon\ 1.png");
+}
+
+#faq-question-2-div {
+  /* Rectangle 71 */
+
+  position: absolute;
+  width: 946px;
+  height: 96px;
+  left: 243px;
+  top: 5233px;
+
+  background: #ffffff;
+  /* Stroke */
+
+  border: 0.5px solid #cad6f1;
+  box-sizing: border-box;
+  box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  border-radius: 20px;
+}
+
+#faq-question-2-p {
+  /* Who can open a Draft account? */
+
+  position: absolute;
+  width: 336px;
+  height: 36px;
+  left: 273px;
+  top: 5264px;
+
+  /* Heading/H4 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+
+  /* Secondary/Dark */
+
+  color: #16194f;
+}
+
+#faq-question-2-img {
+  /* Plus-icon 2 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1127px;
+  top: 5266px;
+
+  background-image: url("../pics/Plus-icon\ 1.png");
+}
+
+#faq-question-3-div {
+  /* Rectangle 71 */
+
+  position: absolute;
+  width: 946px;
+  height: 96px;
+  left: 243px;
+  top: 5349px;
+
+  background: #ffffff;
+  /* Stroke */
+
+  border: 0.5px solid #cad6f1;
+  box-sizing: border-box;
+  box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  border-radius: 20px;
+}
+
+#faq-question-3-p {
+  /* What if I withdraw money abroad? */
+
+  position: absolute;
+  width: 365px;
+  height: 36px;
+  left: 273px;
+  top: 5380px;
+
+  /* Heading/H4 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+
+  /* Secondary/Dark */
+
+  color: #16194f;
+}
+
+#faq-question-3-img {
+  /* Plus-icon 2 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1127px;
+  top: 5382px;
+
+  background-image: url("../pics/Plus-icon\ 1.png");
+}
+
+#faq-question-4-div {
+  /* Rectangle 71 */
+
+  position: absolute;
+  width: 946px;
+  height: 96px;
+  left: 247px;
+  top: 5465px;
+
+  background: #ffffff;
+  /* Stroke */
+
+  border: 0.5px solid #cad6f1;
+  box-sizing: border-box;
+  box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  border-radius: 20px;
+}
+
+#faq-question-4-p {
+  /* Can I cancel my subscrption or switch to another plan anytime? */
+
+  position: absolute;
+  width: 683px;
+  height: 36px;
+  left: 277px;
+  top: 5496px;
+
+  /* Heading/H4 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+
+  /* Secondary/Dark */
+
+  color: #16194f;
+}
+
+#faq-question-4-img {
+  /* Plus-icon 2 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1131px;
+  top: 5498px;
+
+  background-image: url("../pics/Plus-icon\ 1.png");
+}
+
+#faq-question-5-div {
+  /* Rectangle 71 */
+
+  position: absolute;
+  width: 946px;
+  height: 96px;
+  left: 247px;
+  top: 5581px;
+
+  background: #ffffff;
+  /* Stroke */
+
+  border: 0.5px solid #cad6f1;
+  box-sizing: border-box;
+  box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  border-radius: 20px;
+}
+
+#faq-question-5-p {
+  /* What happens if I withdraw more than $250? */
+
+  position: absolute;
+  width: 481px;
+  height: 36px;
+  left: 277px;
+  top: 5612px;
+
+  /* Heading/H4 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+
+  /* Secondary/Dark */
+
+  color: #16194f;
+}
+
+#faq-question-5-img {
+  /* Plus-icon 2 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1131px;
+  top: 5614px;
+
+  background-image: url("../pics/Plus-icon\ 1.png");
+}
