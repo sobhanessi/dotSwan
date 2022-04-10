@@ -1,0 +1,233 @@
+#feature-1-section {
+  display: flex;
+  flex-direction: row;
+  top: 1150px;
+  left: 18%;
+  position: absolute;
+}
+
+#feature-1 {
+  display: flex;
+  flex-direction: column;
+  width: 366px;
+}
+
+#feature-1-first-p {
+  /* One card for all your payments */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 120%;
+  /* or 60px */
+
+  /* Primary */
+
+  color: #554dde;
+}
+
+#feature-1-second-p {
+  /* Get 3% back on everything you buy with the Draft card.
+   Register today and enjoy every aspect of your business. */
+
+  /* Body/Main */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+
+#feature-1-img {
+  width: 463px;
+  height: 268px;
+}
+
+#feature-2-section {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 1700px;
+  left: 18%;
+}
+
+#cards {
+  width: 463px;
+  height: 458px;
+  display: flex;
+  flex-direction: column;
+}
+
+#cards-first-div {
+  left: 18%;
+  display: flex;
+  flex-direction: row;
+}
+
+#balance {
+  width: 223px;
+  height: 180px;
+
+  background: #ffffff;
+  /* Stroke */
+
+  border: 0.5px solid #cad6f1;
+  box-sizing: border-box;
+  box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  border-radius: 50px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#last-transaction {
+  width: 223px;
+  margin-left: 20px;
+  height: 180px;
+  background: #ffffff;
+  /* Stroke */
+
+  border: 0.5px solid #cad6f1;
+  box-sizing: border-box;
+  box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  border-radius: 50px;
+
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+#last-transaction-p,
+#balance-p {
+  /* Body/Main */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+
+  color: #000000;
+
+  margin-top: 40px;
+}
+
+#last-transaction-price,
+#balance-price {
+  /* Heading/H3 */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 150%;
+  /* identical to box height, or 60px */
+
+  /* Primary */
+
+  color: #554dde;
+
+  margin-top: -10px;
+}
+
+#last-transaction-price {
+  margin-left: -60px;
+}
+
+#balance-p {
+  margin-left: -45px;
+}
+#cards-second-div {
+  width: 463px;
+  height: 248px;
+  margin-top: 20px;
+  background: #ffffff;
+  /* Stroke */
+
+  border: 0.5px solid #cad6f1;
+  box-sizing: border-box;
+  box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  border-radius: 50px;
+}
+
+#cards-second-div-img {
+  padding-left: 58px;
+  padding-top: 37px;
+}
+
+#feature-2 {
+  display: flex;
+  flex-direction: column;
+  width: 369px;
+  height: 384px;
+  margin-left: 132px;
+}
+
+#feature2 {
+  display: flex;
+  flex-direction: column;
+  width: 369px;
+}
+
+#manage {
+  width: 366px;
+  height: 180px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 120%;
+  /* or 60px */
+
+  /* Primary */
+
+  color: #554dde;
+}
+
+#draft {
+  /* With Draft, book keeping, banking, 
+  and invoices are all in one place. 
+  You will always know where you stand. */
+
+  width: 366px;
+  height: 90px;
+
+  /* Body/Main */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
+
+#learn-more-button {
+  width: 200px;
+  height: 78px;
+  /* Secondary/Dark */
+
+  background: #16194f;
+  border-radius: 20px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 18px 15px 15px 18px;
+}

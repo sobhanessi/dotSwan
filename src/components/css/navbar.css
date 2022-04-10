@@ -9,7 +9,7 @@
 
   /* Heading/H1 */
 
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
   font-size: 60px;
@@ -19,7 +19,7 @@
   color: #ffffff;
 }
 
-#draft {
+#navbar-draft {
   /* Draft is a revolutionary mobile app built to help you manage your business easily and save your money. */
 
   position: absolute;
@@ -30,7 +30,7 @@
 
   /* Body/Main */
 
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
