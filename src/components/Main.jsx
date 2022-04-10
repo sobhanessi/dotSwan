@@ -3,6 +3,16 @@ import arrowRight from './pics/Arrow-Right 1.png';
 import bars from './pics/BArs.png';
 import creditCard from './pics/Credit Card.png';
 import creditCard2 from './pics/Credit Card 2.png';
+import ellipse13 from './pics/Ellipse 13.png';
+import ellipse14 from './pics/Ellipse 14.png';
+import ellipse15 from './pics/Ellipse 15.png';
+import ellipse16 from './pics/Ellipse 16.png';
+import ellipse17 from './pics/Ellipse 17.png';
+import ellipse18 from './pics/Ellipse 18.png';
+import ellipse19 from './pics/Ellipse 19.png';
+import ellipse20 from './pics/Ellipse 20.png';
+import ellipse21 from './pics/Ellipse 21.png';
+import ellipse22 from './pics/Ellipse 22.png';
 import './css/mainPage.css';
 
 function Main() {
@@ -55,249 +65,65 @@ function Main() {
           </button>
         </div>
       </div>
-
-      {/* <div
-        className="feature-2-section"
-        style={{
-          // display: "flex",
-          // flexDirection: "row",
-          // position: "absolute",
-          width: "946px",
-          height: "458px",
-          left: "247px",
-          top: "1722px",
-        }}
-      > */}
-      {/* <div
-        className="cards"
-        style={
-          {
-            // position: "absolute",
-            // width: "463px",
-            // height: "458px",
-            // left: "247px",
-            // top: "1722px",
-          }
-        }
-      > */}
-      {/* <div
-        style={{
-          position: 'absolute',
-          width: '223px',
-          height: '180px',
-          left: '247px',
-          top: '1722px',
-          backgroundColor: 'white',
-          border: '0.5px solid #CAD6F1',
-          boxSizing: 'border-box',
-          boxShadow: '0px 25px 50px rgba(22, 25, 79, 0.05',
-          borderRadius: '50px',
-        }}
-      ></div>
-      <p
-        style={{
-          position: 'absolute',
-          width: '72px',
-          height: '30px',
-          left: '295px',
-          top: '1750px',
-          fontFamily: 'Roboto',
-          fontStyle: 'normal',
-          fontWeight: 400,
-          fontSize: '20px',
-          lineHeight: '150%',
-          color: 'black',
-        }}
-      >
-        Balance
-      </p>
-      <h3
-        style={{
-          position: 'absolute',
-          width: '125px',
-          height: '60px',
-          left: '295px',
-          top: '1768px',
-          fontFamily: 'Roboto',
-          fontStyle: 'normal',
-          fontWeight: 700,
-          fontSize: '40px',
-          lineHeight: '150%',
-          color: '#554DDE',
-        }}
-      >
-        $5,600
-      </h3>
-      <div
-        style={{
-          position: 'absolute',
-          width: '223px',
-          height: '180px',
-          left: '487px',
-          top: '1722px',
-          backgroundColor: 'white',
-          border: '0.5px solid #CAD6F1',
-          boxSizing: 'border-box',
-          boxShadow: '0px 25px 50px rgba(22, 25, 79, 0.05',
-          borderRadius: '50px',
-        }}
-      ></div>
-      <p
-        style={{
-          position: 'absolute',
-          width: '149px',
-          height: '30px',
-          left: '527px',
-          top: '1750px',
-          fontFamily: 'Roboto',
-          fontStyle: 'normal',
-          fontWeight: 400,
-          fontSize: '20px',
-          lineHeight: '150%',
-          color: 'black',
-        }}
-      >
-        Last Transaction
-      </p>
-      <h3
-        style={{
-          position: 'absolute',
-          width: '92px',
-          height: '60px',
-          left: '527px',
-          top: '1768px',
-          fontFamily: 'Roboto',
-          fontStyle: 'normal',
-          fontWeight: 700,
-          fontSize: '40px',
-          lineHeight: '150%',
-          color: '#554DDE',
-        }}
-      >
-        $230
-      </h3>
-      <div
-        style={{
-          position: 'absolute',
-          width: '463px',
-          height: '248px',
-          left: '247px',
-          top: '1932px',
-          backgroundColor: 'white',
-          border: '0.5px solid #CAD6F1',
-          boxSizing: 'border-box',
-          boxShadow: '0px 25px 50px rgba(22, 25, 79, 0.05',
-          borderRadius: '50px',
-        }}
-      ></div>
-      <img
-        src={bars}
-        style={{
-          position: 'absolute',
-          width: '349.3px',
-          height: '173px',
-          left: '304px',
-          top: '1970px',
-        }}
-      /> */}
-      {/* </div> */}
-      {/* <div
-        className="feature2"
-        // style={{ display: "flex", flexDirection: "column" }}
-      > */}
-      {/* <h1
-        style={{
-          position: 'absolute',
-          width: '366px',
-          height: '180px',
-          left: '845px',
-          top: '1759px',
-          fontFamily: 'Roboto',
-          fontStyle: 'normal',
-          fontWeight: 700,
-          fontSize: '50px',
-          lineHeight: '120%',
-          color: '#554DDE',
-        }}
-      >
-        Manage your finances like a pro in no time
-      </h1>
-      <p
-        style={{
-          position: 'absolute',
-          width: '366px',
-          height: '90px',
-          left: '842px',
-          top: '1969px',
-          fontFamily: 'Roboto',
-          fontStyle: 'normal',
-          fontWeight: 400,
-          fontSize: '20px',
-          lineHeight: '150%',
-          color: '#6A6D9E',
-        }}
-      >
-        With Draft, book keeping, banking, and invoices are all in one place.
-        You will always know where you stand.{' '}
-      </p>
-      <button
-        style={{
-          position: 'absolute',
-          width: '200px',
-          height: '54px',
-          left: '845px',
-          top: '2089px',
-          backgroundColor: '#16194F',
-          borderRadius: '20px',
-          color: 'white',
-          fontSize: '15px',
-          fontFamily: 'Roboto',
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-        }}
-      >
-        Learn More{' '}
-        <img
-          src={arrowRight1}
-          style={{
-            marginLeft: '9px',
-          }}
-        />
-      </button>
-      {/* </div> */}
-      {/* </div> */}
-      {/*<h3 id='feature-3-section-support-feature-2-h3'>
-        We support you in 5 different languages
-      </h3>
-      <p id='feature-3-section-support-feature-2-p'>
-        Our support team in here to help you in 5 languages - English, French,
-        Spanish,Polish and German.
-      </p>
-      <div id='feature-3-section-support-profile-images'> </div>
-      <div id='feature-3-section-support-profile-images-ellipse-13'></div>
-      <div id='feature-3-section-support-profile-images-ellipse-14'></div>
-      <div id='feature-3-section-support-profile-images-ellipse-15'></div>
-      <div id='feature-3-section-support-profile-images-ellipse-16'></div>
-      <div id='feature-3-section-support-profile-images-ellipse-17'></div>
-      <div id='feature-3-section-support-profile-images-ellipse-18'></div>
-      <div id='feature-3-section-support-profile-images-ellipse-19'></div>
-      <div id='feature-3-section-support-t-20'>+20</div>
-      <div id='feature-3-section-chat-Mike-div'></div>
-      <p id='feature-3-section-chat-Mike-p'>Hi Mike, How can I help you?</p>
-      <div id='feature-3-section-chat-Mike-ellipse-20'></div>
-      <div id='feature-3-section-chat-Mike-underline'>Clair, 12:22 pm</div>
-      <div id='feature-3-section-chat-Credit-div'></div>
-      <p id='feature-3-section-chat-Credit-p'>My credit card is stolen...</p>
-      <div id='feature-3-section-chat-Credit-underline'>Mike, 12:24 pm</div>
-      <div id='feature-3-section-chat-Credit-ellipse-21'></div>
-      <div id='feature-3-section-chat-Problem-div'></div>
-      <p id='feature-3-section-chat-Problem-p'>
-        Ok. No problem. We will take care of this.
-      </p>
-      <div id='feature-3-section-chat-Problem-ellipse-22'></div>
-      <div id='feature-3-section-chat-Problem-underline'>Clair, 12:25 pm</div>
-      <p id='plans-exceptional'>
+      <div id='feature-3-section'>
+        <div id='support'>
+          <p id='support-first-p'>We support you in 5 different languages</p>
+          <p id='support-second-p'>
+            Our support team in here to help you in 5 languages - English,
+            French, Spanish,Polish and German.
+          </p>
+          <div id='support-profile-images'>
+            <img src={ellipse13} id='ellipse13' />
+            <img src={ellipse14} id='ellipse14' />
+            <img src={ellipse15} id='ellipse15' />
+            <img src={ellipse16} id='ellipse16' />
+            <img src={ellipse17} id='ellipse17' />
+            <img src={ellipse18} id='ellipse18' />
+            <img src={ellipse19} id='ellipse19' />
+            <span id='twenty'>+20</span>
+          </div>
+        </div>
+        <div id='chat'>
+          <div id='first-chat'>
+            <div id='first-chat-img'>
+              <img src={ellipse20} />
+            </div>
+            <div>
+              <p id='first-chat-p'>Hi Mike, How can I help you?</p>
+              <p id='first-chat-caption'>Clair, 12:22 pm</p>
+            </div>
+          </div>
+          <div id='second-chat'>
+            <div>
+              <p id='second-chat-p'>
+                <span dir='rtl' id='second-chat-p-transform'>
+                  Hi Mike, How can I help you?
+                </span>
+              </p>
+              <p id='second-chat-caption' style={{ float: 'right' }}>
+                Mike, 12:24 pm
+              </p>
+            </div>
+            <div id='second-chat-img'>
+              <img src={ellipse21} />
+            </div>
+          </div>
+          <div id='third-chat'>
+            <div id='third-chat-img'>
+              <img src={ellipse22} />
+            </div>
+            <div>
+              <p id='third-chat-p'>
+                <span style={{ width: '295px' }}>
+                  Ok. No problem. We will take care of this.
+                </span>
+              </p>
+              <p id='third-chat-caption'>Clair, 12:24 pm</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      {/*<p id='plans-exceptional'>
         An exceptional service,
         <span style={{ color: '#F44E77' }}> at the right price.</span>
       </p>
