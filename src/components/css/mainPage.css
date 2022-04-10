@@ -454,3 +454,232 @@
   font-size: 20px;
   line-height: 150%;
 }
+
+#plans-exceptional {
+  /* An exceptional service, at the right price. */
+
+  position: absolute;
+  width: 735px;
+  height: 60px;
+  left: 24%;
+  top: 3180px;
+
+  /* Heading/H3 */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 150%;
+  /* identical to box height, or 60px */
+
+  /* Primary */
+
+  color: #554dde;
+}
+
+#plans-start {
+  /* Start with our free plan and switch to premium as you grow */
+
+  position: absolute;
+  width: 628px;
+  height: 36px;
+  left: 406px;
+  top: 3260px;
+
+  /* Body/Intro */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  /* identical to box height, or 36px */
+
+  /* Secondary/Dark */
+
+  color: #16194f;
+}
+
+#plans {
+  position: absolute;
+  top: 3420px;
+  left: 18%;
+  height: 1150px;
+  width: 920px;
+  display: flex;
+  flex-direction: row;
+}
+
+#free-plans-1,
+#free-plans-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 430px;
+  height: 1131px;
+
+  background: #ffffff;
+  /* Stroke */
+
+  border: 0.5px solid #cad6f1;
+  box-sizing: border-box;
+  box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+  border-radius: 50px;
+}
+#free-plans-2 {
+  margin-left: 60px;
+}
+
+#free-or-premium {
+  /* FREE */
+
+  width: 93px;
+  height: 60px;
+  margin-top: 40px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 150%;
+  /* identical to box height, or 60px */
+
+  text-align: center;
+
+  color: #000000;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#price {
+  width: 119px;
+  height: 90px;
+  margin-top: 10px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 150%;
+  /* identical to box height, or 90px */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+#manage {
+  /* Manage your business with a simple and efficient account */
+
+  width: 340px;
+  height: 60px;
+
+  /* Body/Main */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+
+  text-align: center;
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+
+  margin-top: -25px;
+}
+
+#get-started {
+  width: 170px;
+  height: 54px;
+  left: 390px;
+  top: 3788px;
+
+  /* Caption */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 150%;
+  /* identical to box height, or 22px */
+
+  text-align: center;
+
+  /* Secondary/Dark */
+
+  color: #16194f;
+
+  /* Secondary/Dark */
+
+  border: 1.5px solid #16194f;
+  box-sizing: border-box;
+  border-radius: 20px;
+
+  background: white;
+
+  margin-top: 20px;
+}
+
+#free-plans-1-functions {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 316px;
+  height: 313px;
+  margin-left: -25px;
+  margin-top: -40px;
+}
+
+#free-plans-1-functions-1 {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 13px;
+}
+#check-icon-1 {
+  background-image: url('../pics/Check-icon\ 1.png');
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+#check-icon-2 {
+  background-image: url('../pics/Check-icon\ 2.png');
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+
+#free-plans-1-functions-p-thick {
+  height: 26px;
+
+  /* Medium */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #000000;
+}
+
+#free-plans-1-functions-p-gray {
+  height: 26px;
+  /* Medium */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* identical to box height, or 26px */
+
+  color: #b7b7b7;
+}

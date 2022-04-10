@@ -123,13 +123,133 @@ function Main() {
           </div>
         </div>
       </div>
-      {/*<p id='plans-exceptional'>
+      <p id='plans-exceptional'>
         An exceptional service,
         <span style={{ color: '#F44E77' }}> at the right price.</span>
       </p>
       <p id='plans-start'>
         Start with our free plan and switch to premium as you grow
       </p>
+
+      <div id='plans'>
+        <div id='free-plans-1'>
+          <p id='free-or-premium'>FREE</p>
+          <p id='price'>$0/m</p>
+          <p id='manage'>
+            Manage your business with a simple and efficient account.
+          </p>
+          <button id='get-started'>Get Started</button>
+          <div id='free-plans-1-img-div'>
+            <img src={creditCard2} />
+          </div>
+          <div id='free-plans-1-functions'>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>
+                10 free local transfer
+              </span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>
+                10 free local transfer
+              </span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>Multi-user access</span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>
+                Prepaid debit cards
+              </span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>Virtual cards</span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-1'></span>
+              <span id='free-plans-1-functions-p-gray'>
+                Priority 24/7 support
+              </span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-1'></span>
+              <span id='free-plans-1-functions-p-gray'>
+                Exchange 24 currencies
+              </span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-1'></span>
+              <span id='free-plans-1-functions-p-gray'>
+                Free payment to other Draft accounts
+              </span>
+            </div>
+          </div>
+        </div>
+        <div id='free-plans-2'>
+          <p id='free-or-premium'>PREMIUM</p>
+          <p id='price'>$8/m</p>
+          <p id='manage'>
+            Priority support and multi-user access to maximize your
+            productivity.
+          </p>
+          <button id='get-started'>Get Started</button>
+          <div id='free-plans-1-img-div'>
+            <img src={creditCard2} />
+          </div>
+          <div id='free-plans-1-functions'>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>
+                10 free local transfer
+              </span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>
+                10 free local transfer
+              </span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>Multi-user access</span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>
+                Prepaid debit cards
+              </span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>Virtual cards</span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>
+                Priority 24/7 support
+              </span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>
+                Exchange 24 currencies
+              </span>
+            </div>
+            <div id='free-plans-1-functions-1'>
+              <span id='check-icon-2'></span>
+              <span id='free-plans-1-functions-p-thick'>
+                Free payment to other Draft accounts
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      {/*
+      
       <div id='plans-free-plan-1'></div>
       <p id='plans-free-plan-1-free'>FREE</p>
       <p id='plans-free-plan-1-price'>$0/m</p>
