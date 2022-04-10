@@ -248,97 +248,21 @@ function Main() {
           </div>
         </div>
       </div>
+      <div id='faq'>
+        <p id='plans-faq'>
+          Frequently<span style={{ color: '#F44E77' }}> asked questions</span>
+        </p>
+        <p id='plans-faq-bottom'>
+          If you are not sure whether Draft is suitable is for you or not, do
+          not worry. We are here to explain everything you might want to know
+        </p>
+      </div>
       {/*
       
-      <div id='plans-free-plan-1'></div>
-      <p id='plans-free-plan-1-free'>FREE</p>
-      <p id='plans-free-plan-1-price'>$0/m</p>
-      <p id='plans-free-plan-1-manage'>
-        Manage your business with a simple and efficient account
-      </p>
-      <div id='plans-free-plan-1-button-div'></div>
-      <button id='plans-free-plan-1-button'>
-        <span style={{ color: '#16194F', backgroundColor: 'white' }}>
-          Get Started
-        </span>
-      </button>
-      <img src={creditCard2} id='plans-free-plan-1-credit-card-img' />
-      <span id='plans-free-plan-1-functions-group-10-check-icon-2'></span>
-      <span id='plans-free-plan-1-functions-group-10-p'>
-        10 free local transfer
-      </span>
-      <span id='plans-free-plan-1-functions-group-11-check-icon-2'></span>
-      <span id='plans-free-plan-1-functions-group-11-p'>
-        10 free local transfer
-      </span>
-      <span id='plans-free-plan-1-functions-group-12-check-icon-2'></span>
-      <span id='plans-free-plan-1-functions-group-12-p'>Multi-user-access</span>
-      <span id='plans-free-plan-1-functions-group-13-check-icon-2'></span>
-      <span id='plans-free-plan-1-functions-group-13-p'>
-        Prepaid debit cards
-      </span>
-      <span id='plans-free-plan-1-functions-group-14-check-icon-2'></span>
-      <span id='plans-free-plan-1-functions-group-14-p'>Virtual cards</span>
-      <span id='plans-free-plan-1-functions-group-15-check-icon-1'></span>
-      <span id='plans-free-plan-1-functions-group-15-p'>
-        Priority 24/7 support
-      </span>
-      <span id='plans-free-plan-1-functions-group-16-check-icon-1'></span>
-      <span id='plans-free-plan-1-functions-group-16-p'>
-        Exchange 24 currencies
-      </span>
-      <span id='plans-free-plan-1-functions-group-17-check-icon-1'></span>
-      <span id='plans-free-plan-1-functions-group-17-p'>
-        Free payment to other Draft accounts
-      </span>
-      <div id='plans-free-plan-2'></div>
-      <p id='plans-free-plan-2-premium'>PREMIUM</p>
-      <p id='plans-free-plan-2-price'>$8/m</p>
-      <p id='plans-free-plan-2-manage'>
-        Priority support and multi-user access to maximize your productivity.
-      </p>
-      <div id='plans-free-plan-2-button-div'></div>
-      <button id='plans-free-plan-2-button'>
-        <span style={{ color: '#16194F', backgroundColor: 'white' }}>
-          Get Started
-        </span>
-      </button>
-      <img src={creditCard2} id='plans-free-plan-2-credit-card-img' />
-      <span id='plans-free-plan-2-functions-group-10-check-icon-2'></span>
-      <span id='plans-free-plan-2-functions-group-10-p'>
-        10 free local transfer
-      </span>
-      <span id='plans-free-plan-2-functions-group-11-check-icon-2'></span>
-      <span id='plans-free-plan-2-functions-group-11-p'>
-        10 free local transfer
-      </span>
-      <span id='plans-free-plan-2-functions-group-12-check-icon-2'></span>
-      <span id='plans-free-plan-2-functions-group-12-p'>Multi-user-access</span>
-      <span id='plans-free-plan-2-functions-group-13-check-icon-2'></span>
-      <span id='plans-free-plan-2-functions-group-13-p'>
-        Prepaid debit cards
-      </span>
-      <span id='plans-free-plan-2-functions-group-14-check-icon-2'></span>
-      <span id='plans-free-plan-2-functions-group-14-p'>Virtual cards</span>
-      <span id='plans-free-plan-2-functions-group-15-check-icon-1'></span>
-      <span id='plans-free-plan-2-functions-group-15-p'>
-        Priority 24/7 support
-      </span>
-      <span id='plans-free-plan-2-functions-group-16-check-icon-1'></span>
-      <span id='plans-free-plan-2-functions-group-16-p'>
-        Exchange 24 currencies
-      </span>
-      <span id='plans-free-plan-2-functions-group-17-check-icon-1'></span>
-      <span id='plans-free-plan-2-functions-group-17-p'>
-        Free payment to other Draft accounts
-      </span>
       <p id='plans-faq'>
-        Frequently<span style={{ color: '#F44E77' }}> asked questions</span>
+        
       </p>
-      <p id='plans-faq-bottom'>
-        If you are not sure whether Draft is suitable is for you or not, do not
-        worry. We are here to explain everything you might want to know
-      </p>
+      
       <span id='faq-question-1-div'></span>
       <span id='faq-question-1-p'>
         What is the difference between Draft and a traditional bank account?

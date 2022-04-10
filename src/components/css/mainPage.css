@@ -683,3 +683,50 @@
 
   color: #b7b7b7;
 }
+
+#faq {
+  /* Frequently asked questions */
+
+  position: absolute;
+  width: 495px;
+  height: 60px;
+  left: 473px;
+  top: 4809px;
+
+  /* Heading/H3 */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 150%;
+  /* identical to box height, or 60px */
+}
+
+#plans-faq {
+  color: #554dde;
+}
+
+#plans-faq-bottom {
+  /* If you are not sure whether Draft is suitable is for you or not, do not worry. We are here to explain everything you might want to know */
+
+  width: 600px;
+  height: 108px;
+  margin-left: -55px;
+  margin-top: -20px;
+
+  /* Body/Intro */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+
+  text-align: center;
+
+  /* Secondary/Light */
+
+  color: #6a6d9e;
+}
