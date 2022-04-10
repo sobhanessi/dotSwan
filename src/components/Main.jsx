@@ -13,6 +13,8 @@ import ellipse19 from './pics/Ellipse 19.png';
 import ellipse20 from './pics/Ellipse 20.png';
 import ellipse21 from './pics/Ellipse 21.png';
 import ellipse22 from './pics/Ellipse 22.png';
+import { NavLink } from 'react-router-dom';
+import logo from './pics/Logo 1.png';
 import './css/mainPage.css';
 
 function Main() {
@@ -291,30 +293,53 @@ function Main() {
         </span>
         <span id='plus-icon' onClick={expandQuestion}></span>
       </div>
-      {/*
-      
-      <p id='plans-faq'>
-        
-      </p>
-      
-      <span id='faq-question-1-div'></span>
-      
-      <span id='faq-question-2-div'></span>
-      <span id='faq-question-2-p'>Who can open a Draft account?</span>
-      <span id='faq-question-2-img'></span>
-      <span id='faq-question-3-div'></span>
-      <span id='faq-question-3-p'>What if I withdraw money abroad?</span>
-      <span id='faq-question-3-img'></span>
-      <span id='faq-question-4-div'></span>
-      <span id='faq-question-4-p'>
-        Can I cancel my subscrption or switch to another plan anytime?
-      </span>
-      <span id='faq-question-4-img'></span>
-      <span id='faq-question-5-div'></span>
-      <span id='faq-question-5-p'>
-        What happens if I withdraw more than $250?
-      </span>
-      <span id='faq-question-5-img'></span> */}
+
+      <footer>
+        <div id='group-21'>
+          <div id='logo'>
+            <img src={logo} />
+          </div>
+          <p>
+            Copyright © 2020 Draft LLC. <br />
+            All rights reserved.
+          </p>
+        </div>
+        <div id='links'>
+          <div id='first-links'>
+            <NavLink to='/team' className='footer-links'>
+              Team
+            </NavLink>
+            <NavLink to='/press' className='footer-links'>
+              Press
+            </NavLink>
+            <NavLink to='/fees' className='footer-links'>
+              Fees
+            </NavLink>
+          </div>
+          <div id='second-links'>
+            <NavLink to='/services' className='footer-links'>
+              Services
+            </NavLink>
+            <NavLink to='/projects' className='footer-links'>
+              Projects
+            </NavLink>
+            <NavLink to='/affiliate' className='footer-links'>
+              Affiliate
+            </NavLink>
+          </div>
+          <div id='third-links'>
+            <NavLink to='/terms-of-use' className='footer-links'>
+              Terms of use
+            </NavLink>
+            <NavLink to='/privacy-policy' className='footer-links'>
+              Privacy policy
+            </NavLink>
+            <NavLink to='/contact-us' className='footer-links'>
+              Contact s
+            </NavLink>
+          </div>
+        </div>
+      </footer>
     </main>
   );
 }
