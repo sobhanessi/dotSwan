@@ -607,11 +607,9 @@
 #faq-question-1-div {
   /* Rectangle 70 */
 
-  position: absolute;
+  /* position: absolute; */
   width: 946px;
-  height: 96px;
   left: 18%;
-  top: 5117px;
 
   background: #ffffff;
   /* Stroke */
@@ -649,6 +647,30 @@
   margin-left: 30px;
 }
 
+#faq-question-1-p-2 {
+  width: 738px;
+  /* height: 30px; */
+
+  /* Heading/H4 */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 140%;
+  /* identical to box height, or 36px */
+
+  /* Secondary/Dark */
+
+  color: #16194f;
+
+  display: flex;
+  align-items: center;
+
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
 #plus-icon {
   /* margin-right: 33px; */
   display: flex;
@@ -664,11 +686,9 @@
 #faq-question-2-div {
   /* Rectangle 71 */
 
-  position: absolute;
+  /* position: absolute; */
   width: 946px;
-  height: 96px;
   left: 18%;
-  top: 5233px;
 
   background: #ffffff;
   /* Stroke */
@@ -687,11 +707,9 @@
 #faq-question-3-div {
   /* Rectangle 71 */
 
-  position: absolute;
+  /* position: absolute; */
   width: 946px;
-  height: 96px;
   left: 18%;
-  top: 5349px;
 
   background: #ffffff;
   /* Stroke */
@@ -710,11 +728,9 @@
 #faq-question-4-div {
   /* Rectangle 71 */
 
-  position: absolute;
+  /* position: absolute; */
   width: 946px;
-  height: 96px;
   left: 18%;
-  top: 5465px;
 
   background: #ffffff;
   /* Stroke */
@@ -733,11 +749,9 @@
 #faq-question-5-div {
   /* Rectangle 71 */
 
-  position: absolute;
+  /* position: absolute; */
   width: 946px;
-  height: 96px;
   left: 18%;
-  top: 5581px;
 
   background: #ffffff;
   /* Stroke */
@@ -753,6 +767,14 @@
   justify-content: space-around;
 }
 
+#faq-question-1-div,
+#faq-question-2-div,
+#faq-question-3-div,
+#faq-question-4-div,
+#faq-question-5-div {
+  margin-top: 40px;
+}
+
 footer {
   position: absolute;
   width: 1440px;
@@ -764,6 +786,7 @@ footer {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  margin-top: 100px;
 }
 
 #group-21 {
