@@ -179,7 +179,7 @@
   width: 369px;
 }
 
-#manage {
+#feature-2-manage {
   width: 366px;
   height: 180px;
 
@@ -193,6 +193,8 @@
   /* Primary */
 
   color: #554dde;
+
+  margin-top: 20px;
 }
 
 #draft {
@@ -215,6 +217,8 @@
   /* Secondary/Light */
 
   color: #6a6d9e;
+
+  margin-top: -20px;
 }
 
 #learn-more-button {
