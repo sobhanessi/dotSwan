@@ -45,7 +45,7 @@ function Footer() {
             Privacy policy
           </NavLink>
           <NavLink to='/contact-us' className='footer-links'>
-            Contact s
+            Contact us
           </NavLink>
         </div>
       </div>
