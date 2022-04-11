@@ -93,7 +93,10 @@ function Questions() {
               quis consequatur corrupti porro tempore inventore debitis.
             </span>
           </span>
-          <span id='plus-icon' onClick={() => expandQuestion(1)}></span>
+          <span
+            id={expandDisplay1 === 'none' ? 'plus-icon' : 'plus-icon-rotate'}
+            onClick={() => expandQuestion(1)}
+          ></span>
         </div>
 
         <div
@@ -115,7 +118,10 @@ function Questions() {
             </span>
           </span>
 
-          <span id='plus-icon' onClick={() => expandQuestion(2)}></span>
+          <span
+            id={expandDisplay2 === 'none' ? 'plus-icon' : 'plus-icon-rotate'}
+            onClick={() => expandQuestion(2)}
+          ></span>
         </div>
 
         <div
@@ -137,7 +143,10 @@ function Questions() {
               quis consequatur corrupti porro tempore inventore debitis.
             </span>
           </span>
-          <span id='plus-icon' onClick={() => expandQuestion(3)}></span>
+          <span
+            id={expandDisplay3 === 'none' ? 'plus-icon' : 'plus-icon-rotate'}
+            onClick={() => expandQuestion(3)}
+          ></span>
         </div>
 
         <div
@@ -161,7 +170,10 @@ function Questions() {
             </span>
           </span>
 
-          <span id='plus-icon' onClick={() => expandQuestion(4)}></span>
+          <span
+            id={expandDisplay4 === 'none' ? 'plus-icon' : 'plus-icon-rotate'}
+            onClick={() => expandQuestion(4)}
+          ></span>
         </div>
 
         <div
@@ -185,7 +197,10 @@ function Questions() {
             </span>
           </span>
 
-          <span id='plus-icon' onClick={() => expandQuestion(5)}></span>
+          <span
+            id={expandDisplay5 === 'none' ? 'plus-icon' : 'plus-icon-rotate'}
+            onClick={() => expandQuestion(5)}
+          ></span>
         </div>
       </div>
     </React.Fragment>

@@ -671,7 +671,8 @@
   margin-top: 10px;
 }
 
-#plus-icon {
+#plus-icon,
+#plus-icon-rotate {
   /* margin-right: 33px; */
   display: flex;
   justify-content: center;
@@ -681,6 +682,11 @@
   background: white;
   float: right;
   background-image: url('../pics/Plus-icon\ 1.png');
+}
+
+#plus-icon-rotate {
+  /* rotate: 45deg; */
+  transform: rotate(45deg);
 }
 
 #faq-question-2-div {
